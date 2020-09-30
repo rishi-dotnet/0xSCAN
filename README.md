@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/0xAbdullah/0xSCAN/blob/master/Screenshot.png)
 
-# Usage
+# Usage #some useful information
 ```bash
 python3 0xscan.py -d example.com
 
